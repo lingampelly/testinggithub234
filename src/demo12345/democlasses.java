@@ -11,6 +11,13 @@ public class democlasses {
 		System.out.println("gtyguiujuihyuu");
 		System.out.println("gtyguiujuihyuu");
 		System.out.println("gtyguiujuihyuu");
+
+		System.out.println("gtyguiujuihyuu");
+		System.out.println("gtyguiujuihyuu");
+		System.out.println("gtyguiujuihyuu");
+		System.out.println("gtyguiujuihyuu");
+		System.out.println("gtyguiujuihyuu");
+		System.out.println("gtyguiujuihyuu");
 		
 		int y=2;
 		try
